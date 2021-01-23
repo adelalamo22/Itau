@@ -10,7 +10,7 @@ Hacemos tambien agrupamientos y sacamos las variables hacia atras.
 
 ## Modelo:
 Sacamos unas variables Meanencoder "contaminadas" con algo de información del target (Es un concurso...). Previamente hemos comprobado que no comprometen la
-integridad del modleo y que este funciona de forma correcta en nuestras pruevas. 
+integridad del modelo y que este funciona de forma correcta en nuestras pruebas. 
 Unimos Todos los dataset anteiores ya con su FE realizado. 
 Hacemos un rebalanceo del dataset final ya que este contiene mucha informacion de clientes que no han comprado nuetros productos y esta
 introduciendo un sesgo a nuestro modelo. 
